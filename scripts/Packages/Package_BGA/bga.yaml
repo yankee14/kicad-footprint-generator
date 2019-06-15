@@ -128,7 +128,7 @@ TFBGA-196_11x11mm_Layout14x14_P0.75mm_Ball0.32mm_Pad0.35mm_SMD:
   overall_height: 1.20
   pitch: 0.75
   pad_diameter: 0.35
-  mask_margin: 0.0375
+  mask_margin: -0.0375
   paste_margin: 0.000001
   layout_x: 14
   layout_y: 14
