@@ -120,7 +120,7 @@ TFBGA-121_10x10mm_Layout11x11_P0.8mm:
   paste_margin: 0.000001
   layout_x: 11
   layout_y: 11
-TFBGA-196_11.0x11.0mm_Layout14x14_P0.75mm_Ball0.32mm_Pad0.35mm_SMD:
+TFBGA-196_11x11mm_Layout14x14_P0.75mm_Ball0.32mm_Pad0.35mm_SMD:
   description: "TFBGA-196"
   size_source: "http://ww1.microchip.com/downloads/en/devicedoc/ds60001476b.pdf#page=2536"
   body_size_x: 11.0
