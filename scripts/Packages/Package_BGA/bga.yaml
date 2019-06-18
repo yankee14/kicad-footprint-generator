@@ -122,7 +122,7 @@ TFBGA-121_10x10mm_Layout11x11_P0.8mm:
   layout_y: 11
 TFBGA-196_11x11mm_Layout14x14_P0.75mm_Pad0.35mm_SMD:
   description: "TFBGA-196"
-  size_source: "http://ww1.microchip.com/downloads/en/devicedoc/ds60001476b.pdf#page=2536"
+  size_source: "http://ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf#page=2956"
   body_size_x: 11.0
   body_size_y: 11.0
   overall_height: 1.20
